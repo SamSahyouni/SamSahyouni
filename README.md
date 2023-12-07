@@ -4,8 +4,8 @@
 
 - <b>GUI Practice (Tkinter)</b>
   - [Practicing making a GUI in Python](https://github.com/SamSahyouni/miles_to_km_converter_GUI)
-- <b>Accessing Data using Dictionary Comprehension (Pandas)</b>
-  - [Accessing Data using Dictionary Comprehension](https://github.com/SamSahyouni/NATO-alphabet) 
+- <b>Accessing DataFrame using Dictionary Comprehension (Pandas)</b>
+  - [Accessing DataFrame using Dictionary Comprehension](https://github.com/SamSahyouni/NATO-alphabet) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
