@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! <br/><a href="https://github.com/SamSahyouni">Programmer</a>, <a>Teacher</a>, <>Learner</a></h1>
+<h1>Hi, I'm Sam! <br/><a href="https://github.com/SamSahyouni">Programmer</a>, <a>Teacher</a>, <a>Learner</a></h1>
 
 <h2>👨‍💻 Python Projects:</h2>
 
