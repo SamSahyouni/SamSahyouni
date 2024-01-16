@@ -3,7 +3,7 @@
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>Pomodoro Timer (GUI/Tkinter)</b>
-  - [A Pomodoro Timer with a GUI in Python](https://github.com/Pomodoro-Timer-GUI-tKinter)
+  - [A Pomodoro Timer with a GUI in Python](https://github.com/SamSahyouni/Pomodoro-Timer-GUI-tKinter)
 
 - <b>GUI Practice (Tkinter)</b>
   - [Practicing making a GUI in Python](https://github.com/SamSahyouni/miles_to_km_converter_GUI)
