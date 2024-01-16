@@ -1,8 +1,10 @@
 <h1>Hi, I'm Sam! <br/><a href="https://github.com/SamSahyouni">Programmer</a>, <a>Teacher</a>, <a>Learner</a></h1>
 
 <h2>👨‍💻 Python Projects:</h2>
-- <b>Pomodoro Timer - GUI (Tkinter)</b>
-  - [A Pomodoro Timer making a GUI in Python](https://github.com/SamSahyouni/Pomodoro-Timer-GUI-tKinter)
+
+- <b>Pomodoro Timer (GUI/Tkinter)</b>
+  - [A Pomodoro Timer with a GUI in Python](https://github.com/Pomodoro-Timer-GUI-tKinter)
+
 - <b>GUI Practice (Tkinter)</b>
   - [Practicing making a GUI in Python](https://github.com/SamSahyouni/miles_to_km_converter_GUI)
 - <b>Accessing DataFrame using Dictionary Comprehension (Pandas)</b>
